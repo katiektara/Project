@@ -1,0 +1,2 @@
+# Project
+Destroying trigger object  
