@@ -78,6 +78,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Cartoon Particles -  Fire &amp; Smoke (Free)\Scripts\Mover.cs" />
     <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
     <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
@@ -121,8 +122,10 @@
     <Compile Include="Assets\JSLizards\Iguana\Scripts\IguanaCharacter.cs" />
     <Compile Include="Assets\JSLizards\Iguana\Scripts\IguanaUserController.cs" />
     <Compile Include="Assets\Scripts\AnimPeng.cs" />
+    <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\DestroyUponCollision.cs" />
     <Compile Include="Assets\Scripts\Duck.cs" />
+    <Compile Include="Assets\Scripts\Explosion.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Baker House\Readme.txt" />
